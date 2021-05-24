@@ -1,5 +1,5 @@
 # git-collab
-Git gud git collaborations/history
+Git gud git collaborations
 - Workflows
 - Fetching
 - Pulling
